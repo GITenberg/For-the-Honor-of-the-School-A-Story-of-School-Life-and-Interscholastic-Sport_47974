@@ -33,5 +33,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'For the Honor of the School: A Story of School Life and Interscholastic Sport'
 url: http://www.gutenberg.org/ebooks/47974
